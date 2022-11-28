@@ -14,7 +14,7 @@ function Nav() {
     
     <div>
         <Wrapper className='full-div'>
-          <div><Link to="Deshboard">Deshboard</Link></div>
+          {/* <div><Link to="Deshboard">Deshboard</Link></div> */}
       
         {
         isAuthenticated && (
